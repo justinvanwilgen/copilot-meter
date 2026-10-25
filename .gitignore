@@ -1,0 +1,8 @@
+.idea/
+.pio
+.vscode
+.vs
+*.sln
+*.vcxproj*
+logs
+firmware/
