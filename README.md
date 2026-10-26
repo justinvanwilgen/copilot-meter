@@ -124,3 +124,9 @@ If `http://<device-ip>/param` times out but `httptest` returns `200 OK`, your Wi
 | microSD | [src/drivers/sdcard.cpp](src/drivers/sdcard.cpp) | VSPI, exposes the global `SD` object (unused) |
 
 If touches are offset, adjust the `CAL_*` constants in [src/drivers/touch.cpp](src/drivers/touch.cpp) using values from `touchReadRaw()`.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Based on [NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) by Bitmaker.
+
+This is an independent project, not affiliated with or endorsed by GitHub. GitHub and Copilot are trademarks of GitHub, Inc.
