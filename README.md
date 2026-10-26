@@ -2,6 +2,8 @@
 
 Shows your monthly **GitHub Copilot AI credit** usage as `used / allowance` on the ESP32-2432S028 "Cheap Yellow Display", next to an animated pixel pilot whose mood follows how much of the month's allowance you have burned. Built on a minimal CYD base derived from [NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2).
 
+![Copilot Meter dashboard](docs/dashboard.png)
+
 ## What's on screen
 
 - Credits used this month (big number), `of <allowance>`, and the percentage
